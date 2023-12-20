@@ -5,6 +5,7 @@ Training and Results
 
 
 
+![dataset](https://github.com/Srusti-patil/DL/assets/133340064/636ab8eb-548b-40b9-ba92-c764d74029be)
 
 The CNN is trained for 10 epochs, and the training progress is summarized below:
 
